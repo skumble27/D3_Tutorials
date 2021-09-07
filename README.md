@@ -23,7 +23,15 @@ npm run build
 
 
 
-Go to the index.html file in the src folder and make the changes accordingly
+Go to the index.js file in the src folder and make the changes accordingly
+
+![Image1](https://raw.githubusercontent.com/skumble27/D3_Tutorials/main/images/image1.png)
+
+![Image2](https://raw.githubusercontent.com/skumble27/D3_Tutorials/main/images/image2.png)
+
+![Image3](https://raw.githubusercontent.com/skumble27/D3_Tutorials/main/images/image3.png)
+
+
 
 Go to the App.js and change as follows
 
